@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725230767 source:c:\users\claud\documents\clientec\main.cpp
+	<stdio.h>
+	<windows.h>
+	<winsock.h>
+
